@@ -4,7 +4,7 @@ Loewenstark_CurrencyEcb
 Info
 -----------
 - added Support for the Currency Rates from EUR to like USD, see: [ecb.europa.eu](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html)
-- You should confiure the cron task after 3 pm (UTC)
+- You should configure the cron task after 3 pm (UTC)
 
 Requirements
 ------------
